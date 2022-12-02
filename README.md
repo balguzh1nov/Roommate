@@ -20,12 +20,12 @@ Changes will still be made before the project is fully completed.
 
 https://user-images.githubusercontent.com/118799235/205387214-812d5ee2-b321-4532-a933-0cc619534feb.mp4
 
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 43](https://user-images.githubusercontent.com/118799235/205387262-88e14a38-7014-4b2e-b676-57f4b72c6723.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 40](https://user-images.githubusercontent.com/118799235/205387267-f99efbf6-990c-4663-84af-4cde63718cad.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 33](https://user-images.githubusercontent.com/118799235/205387269-f4b752c6-5503-4dac-b9a2-9e9c1b70b360.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 40](https://user-images.githubusercontent.com/118799235/205387271-0d6d449c-a4dd-437b-aa62-0ac581e837f3.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 35](https://user-images.githubusercontent.com/118799235/205387272-230b4941-f779-4148-8aff-347c8b334ab9.png)
-![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 32](https://user-images.githubusercontent.com/118799235/205387275-d488615b-c0ac-41e2-a743-85fe5c90cd9e.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 43](https://user-images.githubusercontent.com/118799235/205387262-88e14a38-7014-4b2e-b676-57f4b72c6723.png =250x250)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 40](https://user-images.githubusercontent.com/118799235/205387267-f99efbf6-990c-4663-84af-4cde63718cad.png =250x250)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 51 33](https://user-images.githubusercontent.com/118799235/205387269-f4b752c6-5503-4dac-b9a2-9e9c1b70b360.png =250x250)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 40](https://user-images.githubusercontent.com/118799235/205387271-0d6d449c-a4dd-437b-aa62-0ac581e837f3.png =250x250)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 35](https://user-images.githubusercontent.com/118799235/205387272-230b4941-f779-4148-8aff-347c8b334ab9.png =250x250)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-12-03 at 02 50 32](https://user-images.githubusercontent.com/118799235/205387275-d488615b-c0ac-41e2-a743-85fe5c90cd9e.png =250x250)
 
 
 
