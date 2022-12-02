@@ -17,15 +17,7 @@ Changes will still be made before the project is fully completed.
 
 ## Demo
 
-
 https://user-images.githubusercontent.com/118799235/205387214-812d5ee2-b321-4532-a933-0cc619534feb.mp4
-
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/118799235/205387925-37f36f6f-7de3-4c7f-9dc0-3eda9a78bde5.png)" width="250" height="250">
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/118799235/205387932-fd2c546d-d2c2-41c7-9945-646d87662717.png)" width="250" height="250">
-<img src="[https://i.imgur.com/ZWnhY9T.png]([https://user-images.githubusercontent.com/118799235/205387925-37f36f6f-7de3-4c7f-9dc0-3eda9a78bde5.png](https://user-images.githubusercontent.com/118799235/205387928-21878ab4-3d42-49b4-afae-dfee065ae3d4.png))" width="250" height="250">
-<img src="[https://i.imgur.com/ZWnhY9T.png](https://user-images.githubusercontent.com/118799235/205387934-6cea425f-ee5f-4e9a-925e-2635639b1fa2.png)" width="250" height="250">
-
-
 
 ## Tech Stack
 
