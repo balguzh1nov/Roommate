@@ -19,7 +19,8 @@ For the moment, can not provide the source code.
 
 ## Demo
 
-https://user-images.githubusercontent.com/118799235/205387214-812d5ee2-b321-4532-a933-0cc619534feb.mp4
+
+https://github.com/balguzh1nov/Roommate/assets/118799235/6cdca398-6468-4bed-befe-3be75c479cca
 
 ## Tech Stack
 
