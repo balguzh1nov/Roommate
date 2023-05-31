@@ -33,9 +33,6 @@ From the list of what i have to do and add are:
 
 **Add:** 
 
-1. Add password validation
-2. Add apple, google, facebook sign in
-3. Improve UI design 
-4. If the input was incorrect, an error came out
-5. Add a filter by city and search range
-6. Conduct tests
+1. Add apple, google, facebook sign in
+2. Add a filter by city and search range, CoreLocation
+3. Conduct tests
